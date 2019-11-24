@@ -1,0 +1,10 @@
+{
+    "dev": {
+    "driver": "mysql",    
+    "user": "root",
+    "password": "Valentina83",
+    "host": "localhost",
+    "database": "my_gest_app",
+      "multipleStatements": true
+  }
+}

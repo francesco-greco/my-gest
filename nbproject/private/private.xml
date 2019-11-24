@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="SaemiCloud">
+            <file>file:/D:/_Lavoro/sources/med-chhab/js/ch_modules/ch_projects.js</file>
+            <file>file:/D:/_Lavoro/sources/med-chhab/js/ch_modules/ch_labs.js</file>
+            <file>file:/D:/_Lavoro/sources/med-chhab/js/ch_modules/ch_clients.js</file>
+            <file>file:/D:/_Lavoro/sources/med-chhab/js/ch_modules/ch_users.js</file>
+            <file>file:/D:/_Lavoro/sources/med-chhab/application/controllers/labs_controller.php</file>
+            <file>file:/D:/_Lavoro/sources/med-chhab/application/views/labs/edit_lab_view.php</file>
+            <file>file:/D:/_Lavoro/sources/med-chhab/application/controllers/lab_tasks_controller.php</file>
+            <file>file:/D:/_Lavoro/sources/med-chhab/application/config/CH_constants.php</file>
+            <file>file:/D:/_Lavoro/sources/med-chhab/js/ch_serverside_constants.js.php</file>
+            <file>file:/D:/_Lavoro/sources/med-chhab/application/models/labs_model.php</file>
+            <file>file:/D:/_Lavoro/sources/med-chhab/application/models/lab_tasks_model.php</file>
+            <file>file:/D:/_Lavoro/sources/med-chhab/application/views/lab_tasks/edit_lab_task_view.php</file>
+            <file>file:/D:/_Lavoro/sources/med-chhab/application/language/italian/ch_lab_tasks_lang.php</file>
+            <file>file:/D:/_Lavoro/sources/med-chhab/application/language/italian/ch_labs_lang.php</file>
+            <file>file:/D:/_Lavoro/sources/med-chhab/application/dto/project_gantt_dto.php</file>
+        </group>
+        <group name="ntacca">
+            <file>file:/D:/_Lavoro/sources/med-chhab/application/language/italian/ch_common_words_lang.php</file>
+            <file>file:/D:/_Lavoro/sources/med-chhab/application/controllers/clients_controller.php</file>
+            <file>file:/D:/_Lavoro/sources/med-chhab/application/helpers/ch_common_helper.php</file>
+        </group>
+        <group>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/my-gest/my-gest/application/dto/intervention_dto.php</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/my-gest/my-gest/application/views/moduli_pdf/pdf_ricevuta_ingresso_cliente.php</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/my-gest/my-gest/css/my_products.css</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/my-gest/my-gest/css/my_interventions.css</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/my-gest/my-gest/application/models/interventions_model.php</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/my-gest/my-gest/application/controllers/products_controller.php</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/my-gest/my-gest/application/views/_imetec/view_warranty_imetec.php</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/my-gest/my-gest/application/views/products/show_articoli_view.php</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/my-gest/my-gest/application/views/interventions/interventions_main_view.php</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/my-gest/my-gest/application/views/interventions/windows/new_intervention_window.php</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/my-gest/my-gest/application/controllers/users_controller.php</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/my-gest/my-gest/application/views/interventions/intervention_page.php</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/my-gest/my-gest/application/controllers/interventions_controller.php</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/my-gest/my-gest/application/views/main_view.php</file>
+        </group>
+    </open-files>
+</project-private>

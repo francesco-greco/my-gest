@@ -1,0 +1,1 @@
+DROP TABLE manage_send_email;

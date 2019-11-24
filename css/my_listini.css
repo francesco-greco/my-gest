@@ -1,0 +1,28 @@
+#new_listino_window .prefix {
+    height: 2.17rem;
+    background: #008cba;
+    color: white;
+    font-weight: bold;
+    font-size: 1.6rem;
+}
+
+#listino_details_window .prefix {
+    height: 19px;
+    background: #008cba;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 16px;
+}
+#listini_dettagli p {
+   font-size: 0.9rem;
+   font-weight: bold;
+   margin-bottom: 0px;
+   text-align: justify;
+}
+
+#listini_dettagli table td {
+   text-align: center; 
+    vertical-align: middle;
+    padding: 2px 2px 2px 2px;
+}

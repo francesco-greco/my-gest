@@ -1,0 +1,14 @@
+IIf([INSER]<#10/01/2013#
+	;IIf([3,1]=-1
+		;"Rifiuta accertamento telefonico - MOD: AD/BF/A"
+		;IIf([2,1]=-1;"Annullato - MOD: AD/Z"
+			;[DESCR] & " - MOD: " & IIf([4,2]=-1 And [6,2]=0
+			;[linea] & " - (C)";[linea])))
+	;IIf([3,1]=-1
+		;"Rifiuta accertamento telefonico - MOD: AD/Z"
+		;IIf([2,1]=-1
+			;"Annullato - MOD: AD/Z"
+			;[DESCR] & " - MOD: " & IIf([4,2]=-1 And [6,2]=0
+				;[linea] & " - (C)"
+				;[linea])))
+)

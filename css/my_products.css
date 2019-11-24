@@ -1,0 +1,76 @@
+#carica_articoli_container .tabs dd > a{
+    background-color: #fffff0;
+}
+
+#carica_articoli_container .tabs dd.active > a{
+    background-color: #66CDAA !important;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+#article_details_window table th{
+   background: #008cba;
+   color: white;
+}
+
+#article_details_view .head_table td{
+   text-align: center;
+   font-weight: bolder;
+   font-size: 1rem;
+}
+
+#article_details_view .article_details td{
+   text-align: center;
+   font-size: 0.9rem;
+}
+
+#article_details_view .article_details th{
+   text-align: center;
+   font-size: 0.9rem;
+   font-weight: bolder;
+   background: #fff8dc;
+}
+
+#article_details_view .article_details td{
+   text-align: left;
+   font-size: 0.9rem;
+}
+
+#article_details_view p {
+   font-size: 1rem;
+   font-weight: bold;
+   margin-bottom: 0px;
+   text-align: justify;
+}
+
+#article_details_view table td {
+   text-align: center; 
+    vertical-align: middle;
+    padding: 3px 3px 3px 3px;
+}
+
+#gestione_ubicazioni input, #gestione_ubicazioni select {
+   margin: 2px 2px 2px 2px;
+}
+
+#nuovo_magazzino span{font-weight: bold;}
+
+#movimenti_list_container .tabs dd > a{
+    background-color: #fffff0;
+}
+
+#movimenti_list_container .tabs dd.active > a{
+    background-color: #66CDAA !important;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+#movimento_dettagli_container .tabs dd > a{
+    background-color: #fffff0;
+}
+
+#movimento_dettagli_container .tabs dd.active > a{
+    background-color: #66CDAA !important;
+    border-radius: 20px;
+    font-weight: bold;
+}

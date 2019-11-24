@@ -1,0 +1,79 @@
+{
+   "tasks":[
+     {
+        "id":-1,
+        "name":"Project 1",
+        "code":"P1",
+        "level":0,
+        "status":"STATUS_ACTIVE",
+        "canWrite":true,
+        "start":1396994400000,
+        "duration":21,
+        "end":1399672799999,
+        "startIsMilestone":true,
+        "endIsMilestone":false,
+        "collapsed":false,
+        "assigs":[],
+        "hasChild":true
+      },
+      {
+         "id":-2,
+         "name":"SubTask 1",
+         "code":"ST1",
+         "level":1,
+         "status":"STATUS_ACTIVE",
+         "canWrite":true,
+         "start":1396994400000,
+         "duration":10,
+         "end":1398203999999,
+         "startIsMilestone":false,
+         "endIsMilestone":false,
+         "collapsed":false,
+         "assigs":[],
+         "description":"",
+         "progress":0,
+         "hasChild":true
+      },
+      {
+         "id":-3,
+         "name":"Activity 1",
+         "code":"A1",
+         "level":2,
+         "status":"STATUS_ACTIVE",
+         "canWrite":true,
+         "start":1396994400000,
+         "duration":2,
+         "end":1397167199999,
+         "startIsMilestone":false,
+         "endIsMilestone":false,
+         "collapsed":false,
+         "assigs":[],
+         "depends":"",
+         "hasChild":false
+      },
+      {
+         "id":-4,
+         "name":"Activity 2",
+         "code":"A2",
+         "level":2,
+         "status":"STATUS_SUSPENDED",
+         "canWrite":true,
+         "start":1397167200000,
+         "duration":4,
+         "end":1397685599999,
+         "startIsMilestone":false,
+         "endIsMilestone":false,
+         "collapsed":false,
+         "assigs":[],
+         "depends":"3",
+         "hasChild":false
+      }
+     ,{"id":-5,"name":"SubTask 2","code":"ST2","level":1,"status":"STATUS_SUSPENDED","canWrite":true,"start":1398981600000,"duration":6,"end":1399672799999,"startIsMilestone":false,"endIsMilestone":false,"collapsed":false,"assigs":[],"depends":"2:5","description":"","progress":0,"hasChild":true}
+     ,{"id":-6,"name":"Activity 3","code":"A3","level":2,"status":"STATUS_SUSPENDED","canWrite":true,"start":1398981600000,"duration":2,"end":1399327199999,"startIsMilestone":false,"endIsMilestone":false,"collapsed":false,"assigs":[],"depends":"","hasChild":false}
+     ,{"id":-7,"name":"Activity 4","code":"A4","level":2,"status":"STATUS_SUSPENDED","canWrite":true,"start":1399327200000,"duration":3,"end":1399586399999,"startIsMilestone":false,"endIsMilestone":false,"collapsed":false,"assigs":[],"depends":"6","hasChild":false}
+     ,{"id":-8,"name":"Activity 5","code":"A5","level":2,"status":"STATUS_SUSPENDED","canWrite":true,"start":1399327200000,"duration":2,"end":1399499999999,"startIsMilestone":false,"endIsMilestone":false,"collapsed":false,"assigs":[],"depends":"6","hasChild":false}
+   ],
+   "selectedRow":0,
+   "canWrite":true,
+   "canWriteOnParent":true
+}

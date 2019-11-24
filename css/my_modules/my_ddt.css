@@ -1,0 +1,33 @@
+#ddt_page fieldset {
+    padding: 5px 10px 1px 10px !important;
+    margin: 0.5rem 0;
+}
+
+#ddt_list_page_container .tabs dd > a{
+    background-color: #fffff0;
+}
+
+#ddt_list_page_container .tabs dd.active > a{
+    background-color: #66CDAA !important;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+/*#ddt_page table.details_table {
+  display: block;
+  width: 100%;
+}
+#ddt_page table.details_table thead tr {
+  display: block;
+}
+#ddt_page table.details_table th,
+#ddt_page table.details_table td { width: 500px; min-width: 60px; }
+#ddt_page table.details_table tbody {
+   height: 100px;
+  display: block;
+  overflow-y: scroll;
+  width: 100%;
+}
+#ddt_page table.details_table tfoot tr {
+  display: block;
+}*/

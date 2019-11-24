@@ -1,0 +1,121 @@
+#interventions_main_container table{
+    border: 2px solid gray;
+}
+
+#interventions_main_container table.table_interventions_list thead tr th {
+    background-color: #008cba !important;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1rem;
+    height: 20px !important;
+}
+
+#interventions_main_container h4.my-title {
+    background: #b0c4de !important;
+    color: white !important;
+    border-radius: 20px;
+    font-weight: bold;
+    box-shadow:  5px 10px #888888;
+}
+
+#interventions_main_container div.notes_container{
+    border: 2px solid gray;
+    background-color: #fff8dc !important;
+}
+
+#interventions_main_container .tabs dd > a{
+    background-color: #fffff0;
+}
+
+#interventions_main_container .tabs dd.active > a{
+    background-color: #66CDAA !important;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+#intervention_page h4.my-title {
+    background: #b0c4de !important;
+    color: white !important;
+    border-radius: 20px;
+    font-weight: bold;
+    box-shadow:  5px 10px #888888;
+}
+
+#intervention_page table thead tr th {
+    background-color: #008cba !important;
+    color: white;
+    font-weight: bold;
+    font-size: 1.0rem;
+    height: 20px !important;
+}
+
+#intervention_page .tabs dd > a{
+    background-color: #fffff0;
+}
+
+#intervention_page .tabs dd.active > a{
+    background-color: #66CDAA !important;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+#intervention_page fieldset {
+    padding: 10px 10px 1px 10px !important;
+    margin: 0.5rem 0;
+}
+
+#intervention_page p {
+    margin-bottom: 0px;
+    line-height: 20px;
+}
+
+
+
+#intervention_page .note_div{
+    margin-top: 10px;
+    border: 1px solid black;
+    font-size: 0.9rem;
+    padding: 5px 5px 2px 5px;
+    border-radius: 5px;
+}
+
+#intervention_page .accordion dd > a{
+   background: #fff8dc;
+   height: 30px;
+   line-height: 0;
+   border-radius: 20px 20px 20px 20px; 
+}
+
+#intervention_page .accordion dd > a:hover{
+   background: #66CDAA;
+}
+
+#intervention_page .accordion .accordion-navigation > .content.active, .accordion dd > .content.active{
+   background: #fff8dc;
+}
+
+#new_costs_window .tabs dd > a{
+    background-color: #fffff0;
+}
+
+#new_costs_window .tabs dd.active > a{
+    background-color: #66CDAA !important;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+#new_costs_window table tfoot td{
+   padding: 2px 2px 2px 2px;
+   vertical-align: central;
+   height: 20px;
+}
+
+#new_costs_window input{
+   margin: 2px 0px 2px 0px;
+}
+
+#new_costs_window select{
+   height: 25px;
+   margin: 2px 0px 2px 0px;
+   padding: 0px;
+}
